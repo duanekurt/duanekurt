@@ -3,7 +3,7 @@
 
 - 💼 I’m currently working as a **Senior Software Engineer**
 
-- 🌱 I’m currently learning **Rust & many more**
+- 🌱 I’m currently learning **Elixir, Rust & many more**
 
 - ⚡ What I like to do: **I love coding discord bots, personal/team projects, mechanical keyboards ⌨️**
 
