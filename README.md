@@ -115,6 +115,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=duanekurt&theme=github_dark&show_icons=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duanekurt&theme=github_dark&layout=compact" />
 </p>
+  <figure><embed src="https://wakatime.com/share/@018ed103-1446-4337-84c2-d8edfb81f47e/cdc13c37-5ea1-40a3-8a84-b04676a12c6a.svg"></embed></figure>
 
 ------
 
